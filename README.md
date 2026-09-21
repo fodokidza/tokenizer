@@ -4,9 +4,9 @@ Developed by : Clifford Chivhanga
 
 # A fast, lightweight, two-stage Character/Word tokenizer designed specifically for the MSE-GLM architecture.
 
-** The tokenizer replaces traditional Byte Pair Encoding (BPE) iterative merge scans with a deterministic two-stage architecture built around a shared ID space.
+## The tokenizer replaces traditional Byte Pair Encoding (BPE) iterative merge scans with a deterministic two-stage architecture built around a shared ID space.
 
-** On the same measured corpus, the current implementation reduces vocabulary-generation time from approximately 25 minutes to under 50 seconds, while retaining a complete character-level fallback for words that are not included in the Stage 2 vocabulary.
+## On the same measured corpus, the current implementation reduces vocabulary-generation time from approximately 25 minutes to under 50 seconds, while retaining a complete character-level fallback for words that are not included in the Stage 2 vocabulary.
 
 «Current implementation: Stage 1 + Stage 2
 Stage 3: Planned, but not yet implemented.»
