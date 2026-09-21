@@ -33,7 +33,7 @@ Characters are currently case-sensitive.
 
 ---
 
-Stage 2 — "TokenVocabulary"
+## Stage 2 — "TokenVocabulary"
 
 A higher-level vocabulary containing selected multi-character lexical tokens.
 
