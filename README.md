@@ -13,7 +13,7 @@ Stage 3: Planned, but not yet implemented.»
 
 ---
 
-Key Features
+## Key Features
 
 Two-Stage Architecture
 
