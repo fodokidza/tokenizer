@@ -4,6 +4,8 @@ Developed by: Clifford Chivhanga
 
 Email: cliffordchivhanga318@gmail.com
 
+Other projects: https://github.com/fodokidza/mse_glm
+
 A fast, lightweight, two-stage Character/Word tokenizer designed specifically for the **MSE-GLM** architecture.
 
 The tokenizer replaces traditional Byte Pair Encoding (BPE) iterative merge scans with a deterministic two-stage architecture built around a shared ID space.
