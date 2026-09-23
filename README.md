@@ -1,5 +1,9 @@
 # MSE-GLM Tokenizer (`tokenizer.py`)
 
+Developed by: Clifford Chivhanga 
+
+Email: cliffordchivhanga318@gmail.com
+
 A fast, lightweight, two-stage Character/Word tokenizer designed specifically for the **MSE-GLM** architecture.
 
 The tokenizer replaces traditional Byte Pair Encoding (BPE) iterative merge scans with a deterministic two-stage architecture built around a shared ID space.
